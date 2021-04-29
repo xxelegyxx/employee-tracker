@@ -1,6 +1,6 @@
 # employee-tracker
 
-![screenshot of home page](https://github.com/xxelegyxx/note-taker/blob/main/Assets/Screenshot%20(57).png)
+https://drive.google.com/file/d/1GTbQJqaZhkxDzPTny1oIyLJ7GU1wbKLw/view?usp=sharing
 
 ## :newspaper: Description 
 The following files contain the assets necessary to make a node-based employee tracker. User can add departments, set up roles, create employees, and update existing employees.
